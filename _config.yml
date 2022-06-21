@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Christine Yiwen Yeh"
   avatar           : "profile.JPG"
-  bio              : "MD/PhD student, Biomedical Informatics @ Stanford University"
+  bio              : "MD/PhD student, Biomedical Informatics @ Stanford University. Passionate about data-driven approaches to translational medicine."
   location         : "Stanford, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=17EspbgAAAAJ&hl=en"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/christine-yiwen-yeh/
   orcid            : "https://orcid.org/0000-0003-4217-8555"
   pinterest        :
   soundcloud       :
