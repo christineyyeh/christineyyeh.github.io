@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2017-10-17-2017_Biomarker_Research
 date: 2017-10-17
 venue: 'Biomarker Research'
-paperurl: 'http://christineyyeh.github.io/files/2017_Biomarker_Research.pdf'
-citation: 'Christine Y Yeh, Ravali Adusumilli, Majlinda Kullolli, Parag Mallick, Esther M John, Sharon J Pitteri'
+paperurl: 'https://doi.org/10.1186/s40364-017-0110-y'
 ---
 Christine Y Yeh, Ravali Adusumilli, Majlinda Kullolli, Parag Mallick, Esther M John, Sharon J Pitteri
-[Download paper here](http://christineyyeh.github.io/files/2017_Biomarker_Research.pdf)
+
+[Download PDF Here](http://christineyyeh.github.io/files/2017_Biomarker_Research.pdf)
