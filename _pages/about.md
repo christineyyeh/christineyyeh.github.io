@@ -29,6 +29,16 @@ MS Biomedical Informatics
 BSH, Molecular, Cellular and Developmental Biology 
 <br> Stanford University | 2012 - 2016
 
+Professional Experience
+======
+
+Computational Biologist
+<br> D. E. Shaw Research | 2017 - 2020 
+
+Bioinformatics Intern
+<br> Genentech | Summer 2016
+
+
 Something Extra
 ======
 
