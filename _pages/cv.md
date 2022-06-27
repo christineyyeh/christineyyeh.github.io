@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download my [Full Curriculum Vitae Here]()
+Download my [Full Curriculum Vitae Here](http://christineyyeh.github.io/files/Graduate_CV.pdf)
 
 {% include base_path %}
 
