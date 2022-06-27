@@ -16,11 +16,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 In preparation 
 ==============
 
-<u><a A conserved motif controls the kinetics of the Protein Tyrosine Phosphatase 1B catalytic cycle. </a>.</u> 
+# A conserved motif controls the kinetics of the Protein Tyrosine Phosphatase 1B catalytic cycle.
 <br> **Christine Y. Yeh**, Jesus Izaguirre, Jack J Greisman,  Lindsay Willmore, Paul Maragakis, David E Shaw.
 
-Discovery and Validation of the binding poses of allosteric fragment hits to Protein Tyrosine Phosphatase 1B: from
-Molecular Dynamics to X-Ray Crystallography. 
+# Discovery and Validation of the binding poses of allosteric fragment hits to Protein Tyrosine Phosphatase 1B: from Molecular Dynamics to X-Ray Crystallography. 
 <br> Jack J Greisman\*,  Lindsay Willmore\*, **Christine Y. Yeh**\*, Fabrizio Giordanetto, Sahar Shahamadtar, Hunter Nisonoff, Paul Maragakis, David E Shaw. \* **_Authors Contributed equally_**
 
 
