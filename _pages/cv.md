@@ -7,35 +7,45 @@ redirect_from:
   - /resume
 ---
 
+Download my [Full Curriculum Vitae Here]()
+
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Biomedical Informatics, Stanford University, 2020 - 
+* M.D in Medicine, Stanford University, 2020 - 
+* M.S. in Biomedical Informatics, Stanford Univeristy, 2016 - 2017
+* B.S.H. in Molecular, Cellular, and Developmental Biology, Stanford Univeristy, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2020 Computational Biologist
+  * D. E. Shaw Research
+  * Manager: Paul Maragakis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2016: Bioinformatics Intern
+  * Genentech
+  * Division: Computational Proteomics
+  * Manager: Dr. Erik Vershueren
+
+Service and leadership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020 - Present, Pre-admissions Mentoring Program Director
+  * Stanford Biomedical Informatics Graduate Programs
 
+* 2020 - Present, Mentor 
+  * F-1 Docs: Mentorship For Pre-Health International Students
+
+* 2020 - 2021, COVID-19 Transition Coordinator
+  * Pacific Free Clinic
+
+* 2017 - 2020, Chair 
+  * Women of D.E. Shaw Research, an employee resource group 
+
+* 2016, Executive Committee Member 
+  * Biomedical Computation at Stanford (BCATS) Conference
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,6 +64,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
