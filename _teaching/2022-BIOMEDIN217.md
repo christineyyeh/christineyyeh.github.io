@@ -8,7 +8,7 @@ date: 2022-01-06
 location: "Stanford, CA"
 ---
 
-I was the head TA for the graduate course BIOMEDIN217: Translational Bioinformatics with Professor Dennis Wall. I held office hours, graded coursework, and facilitated course discussion. This course was part of the core graduate curriculum in Biomedical Informatics at Stanford. 
+I was a TA for the graduate course BIOMEDIN217: Translational Bioinformatics with Professor Dennis Wall. I held office hours, graded coursework, and facilitated course discussion. This course was part of the core graduate curriculum in Biomedical Informatics at Stanford. 
 
 Course Information
 ------
